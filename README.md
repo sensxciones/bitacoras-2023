@@ -12,10 +12,10 @@ Recuerda que las preguntas a continuación son una guía y no es necesario respo
 
 * Mencionar las actividades realizadas respecto al curso y el desafío semanal
 * ¿Cómo enfrentaste el desafío?
-*¿Fueron de utilidad los conceptos vistos en clases? ¿Por qué?
-*¿Qué fue lo más complejo del desafío y cómo lo desarrollaste?
-*Si no alcanzaste a realizar todo ¿A qué se debió? ¿Qué acciones podrías realizar para enfrentar estas dificultades?
-*¿Qué aprendizajes obtuviste al realizar el desafío?
+* ¿Fueron de utilidad los conceptos vistos en clases? ¿Por qué?
+* ¿Qué fue lo más complejo del desafío y cómo lo desarrollaste?
+* Si no alcanzaste a realizar todo ¿A qué se debió? ¿Qué acciones podrías realizar para enfrentar estas dificultades?
+* ¿Qué aprendizajes obtuviste al realizar el desafío?
 
 
 ### Sobre las próximas entregas
