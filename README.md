@@ -1,8 +1,7 @@
 
-#    Bitacoras 2022
-Repositorio para las bitácoras de tabajo semanal de les Ingenieres Trainee del programa de entrenamiento 2022.
+#    Bitacoras 2023
+Repositorio para las bitácoras de tabajo semanal de les Ingenieres Trainee del programa de entrenamiento 2023.
 <img src="img/duckietown_engineering_chile.png" width="300">
-
 
 ## Formato Bitácoras Ingenieros Trainee
 
@@ -20,16 +19,16 @@ Recuerda que las preguntas a continuación son una guía y no es necesario respo
 
 ### Sobre las próximas entregas
 
-* La bitácora 1 tiene entrega para el día martes 23 de agosto
-* La entrega de las próximas bitácoras siempre será hasta el día anterior a la capacitación del martes (cualquier cambio se avisará con anticipación)
+* La bitácora 1 tiene entrega para el día martes 22 de agosto
+* La entrega de las próximas bitácoras siempre será hasta el día anterior a la capacitación del miércoles (cualquier cambio se avisará con anticipación)
 
 
 ### Entregable
 
-* Una página de la [wiki](https://github.com/Duckietown-Chile/bitacoras-2022/wiki) de tu repositorio en github que contenga la bitácora de la semana. Una página por bitácora.
+* Una página de la [wiki](https://github.com/Duckietown-Chile/bitacoras-2023/wiki) de tu repositorio en github que contenga la bitácora de la semana. Una página por bitácora.
 
 Dudas: Contactar a Gonzalo Olave, por los canales oficiales (Discord o correo de U-cursos)
 
 
 ### Markdown
-Para escribir su bitácora en formato Markdown pueden apoyarse en este [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Es altamente recomendable que utilicen el formato Markdown para escribir y darle formato a sus bitácoras. Para ello pueden apoyarse en este [CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
