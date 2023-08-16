@@ -23,7 +23,13 @@ Recuerda que las preguntas a continuación son una guía y no es necesario respo
 * La entrega de las próximas bitácoras siempre será hasta el día anterior a la capacitación del miércoles (cualquier cambio se avisará con anticipación)
 
 
-### Entregable
+### Instrucciones
+
+1. Crear una cuenta en GitHub
+2. Crear un FORK de este repositorio
+3. En la Wiki del repositorio subir sus bitácoras semana a semana.
+
+### Entregables
 
 * Una página de la [wiki](https://github.com/Duckietown-Chile/bitacoras-2023/wiki) de tu repositorio en github que contenga la bitácora de la semana. Una página por bitácora.
 
