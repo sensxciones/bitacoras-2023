@@ -3,6 +3,8 @@
 Repositorio para las bitácoras de tabajo semanal de les Ingenieres Trainee del programa de entrenamiento 2023.
 <img src="img/duckietown_engineering_chile.png" width="300">
 
+Bitacora 1:
+
 ## Formato Bitácoras Ingenieros Trainee
 
 Estimade Trainee, el trabajo de bitácora personal tiene el foco en conocer tus progresos y dificultades para que junto al ED podamos avanzar de manera integral en los distintos aspectos del curso, además de ver tus avances y autogestión a lo largo del semestre.
